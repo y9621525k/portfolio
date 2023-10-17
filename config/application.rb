@@ -35,5 +35,6 @@ module RunteqNormal
       g.helper false
       g.skip_routes false
       g.test_framework false
+    end
   end
 end
